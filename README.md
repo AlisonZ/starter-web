@@ -13,6 +13,7 @@ This can be deployed anywhere.
 
 ### How to contribute
 Clone and contribute
+Fork the repo
 
 ###Copyrivght
 add a notice
