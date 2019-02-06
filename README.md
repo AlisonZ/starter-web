@@ -9,4 +9,7 @@ This is a repo to store some files as reference to Github and its processes.
 As noted above, this is to practice and learn more about Github
 
 ### Deployment
+This can be deployed anywhere.
+
 ### How to contribute
+Clone and contribute
