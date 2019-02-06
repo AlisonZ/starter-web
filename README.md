@@ -4,8 +4,7 @@ This repository is for showing how Git and GitHub work. This is to learn about G
 
 ## Introduction
 
-Sample website with plenty of files for demos
-
+This is a repo to store some files as reference to Github and its processes.
 ### Purpose
 
 ### Deployment
