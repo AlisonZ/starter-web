@@ -13,3 +13,6 @@ This can be deployed anywhere.
 
 ### How to contribute
 Clone and contribute
+
+###Copyrivght
+add a notice
